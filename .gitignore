@@ -1,0 +1,15 @@
+/node_modules
+/public/hot
+/public/storage
+/public/Nginx_1.19_vhost.conf
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.htaccess
